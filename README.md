@@ -1,4 +1,3 @@
-![Pterodactyl GraalVM](https://user-images.githubusercontent.com/18230443/209179431-6adf6e6c-09fd-4501-b420-90c5b1dd09e1.jpg)
 ![build graalvm](https://github.com/protobitmc/pterodactyl-graalvm/actions/workflows/docker-image.yml/badge.svg)
 ![license mit](https://img.shields.io/badge/license-MIT-green)
 
@@ -17,9 +16,3 @@ ___
 | 21   | ❌                                     	 | `ghcr.io/protobitmc/pterodactyl-graalvm:21-JDK`	| ❌                                          |
 | 22   | ❌                                     	 | `ghcr.io/protobitmc/pterodactyl-graalvm:22-JDK`	| ❌                                          |
 | 23   | ❌                                     	 | `ghcr.io/protobitmc/pterodactyl-graalvm:23-JDK`	| ❌                                          |
-
-___
-
-## Sponsor
-
-[![playbase.pro](https://playbase.pro/storage/branding/banner.jpg)](https://playbase.pro/en)
